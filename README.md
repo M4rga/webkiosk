@@ -9,3 +9,7 @@ This bash **script** makes your Linux a **web kiosk**.
 You simply need to insert your **URL** in line **57** of the **file**.
 
 Then **run** the script and everything should work.
+
+Inspired by:
+
+- https://github.com/dmotte/ansible-role-webkiosk
